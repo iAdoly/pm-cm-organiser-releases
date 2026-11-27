@@ -2,11 +2,15 @@
 
 تطبيق أندرويد لتنظيم PM وRoutine check من إشعارات قروبات العمل أو تقارير Google Sheets.
 
-## الإصدار 0.1.7
+## الإصدار 0.1.8
 
-[تنزيل APK](https://github.com/iAdoly/pm-cm-organiser-releases/releases/download/v0.1.7/PM-CM-Organiser-0.1.7.apk) · [أحدث إصدار](https://github.com/iAdoly/pm-cm-organiser-releases/releases/latest) · [ملاحظات الإصدار](RELEASE_NOTES_v0.1.7.md)
+[تنزيل APK](https://github.com/iAdoly/pm-cm-organiser-releases/releases/download/v0.1.8/PM-CM-Organiser-0.1.8.apk) · [أحدث إصدار](https://github.com/iAdoly/pm-cm-organiser-releases/releases/latest) · [ملاحظات الإصدار](RELEASE_NOTES_v0.1.8.md)
 
 هذا المستودع للإصدارات والتنزيلات فقط؛ الشيفرة المصدرية محفوظة في مستودع خاص.
+
+## متابعة PM
+
+من السجلات اختر «متابعة PM»، أو افتحها من اختصار الرئيسية. تظهر آخر مرة نُفّذ فيها كل عمل مكتمل دون تكرار، والأقدم أولًا. اختر أسبوعًا أو شهرًا أو شهرين أو فترة بالتواريخ لمتابعة الأعمال التي لا يوجد لها تنفيذ مكتمل مسجّل خلال الفترة. الغرف والأنظمة والأجهزة المحددة تبقى منفصلة. تعتمد القائمة على البيانات الواردة فقط، ولا تعتبر غياب السجل دليلًا على عدم التنفيذ الفعلي.
 
 ## اختيار المصدر
 
@@ -21,7 +25,7 @@
 ## بيانات النسخة
 
 - Android 7.0 أو أحدث.
-- الإصدار **0.1.7**؛ رقم البناء **9**.
-- الملف: PM-CM-Organiser-0.1.7.apk؛ الحجم: 12275223 بايت.
+- الإصدار **0.1.8**؛ رقم البناء **10**.
+- الملف: PM-CM-Organiser-0.1.8.apk؛ الحجم: 12291607 بايت.
 - توقيع Android Debug محفوظ للتحديث فوق النسخ السابقة؛ لا تحذف التطبيق قبل التحديث.
-- SHA-256: d82d5ca0b30a5d3cb95fc0c1eaf73a1cee7f578c1592f38d81f7c49b1562d4c1
+- SHA-256: 140c0e5779243f2f4a90d96c74f12587e5ad9cbb9b6f17c9d70c847569156aff
