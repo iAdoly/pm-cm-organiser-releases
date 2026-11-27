@@ -2,11 +2,15 @@
 
 تطبيق أندرويد لتنظيم PM وRoutine check من إشعارات قروبات العمل أو تقارير Google Sheets.
 
-## الإصدار 0.1.8
+## الإصدار 0.1.9
 
-[تنزيل APK](https://github.com/iAdoly/pm-cm-organiser-releases/releases/download/v0.1.8/PM-CM-Organiser-0.1.8.apk) · [أحدث إصدار](https://github.com/iAdoly/pm-cm-organiser-releases/releases/latest) · [ملاحظات الإصدار](RELEASE_NOTES_v0.1.8.md)
+[تنزيل APK](https://github.com/iAdoly/pm-cm-organiser-releases/releases/download/v0.1.9/PM-CM-Organiser-0.1.9.apk) · [أحدث إصدار](https://github.com/iAdoly/pm-cm-organiser-releases/releases/latest) · [ملاحظات الإصدار](RELEASE_NOTES_v0.1.9.md)
 
 هذا المستودع للإصدارات والتنزيلات فقط؛ الشيفرة المصدرية محفوظة في مستودع خاص.
+
+## الواجهة الجديدة
+
+الرئيسية تعرض الإنجاز والرسوم أولًا، ثم آخر موقع PM وأحدث الأعمال. السجلات تحتوي البحث والفلاتر والتصدير، وتفتح تفاصيل العمل للقراءة قبل التعديل. الإعدادات تجمع المصدر والمظهر، وتُخفي AI والتشخيص داخل خيارات متقدمة. الإضافة اليدوية متاحة في السجلات. تبقى مصادر الأعمال ومتابعة PM والقراءة اليومية محفوظة.
 
 ## متابعة PM
 
@@ -25,7 +29,7 @@
 ## بيانات النسخة
 
 - Android 7.0 أو أحدث.
-- الإصدار **0.1.8**؛ رقم البناء **10**.
-- الملف: PM-CM-Organiser-0.1.8.apk؛ الحجم: 12291607 بايت.
+- الإصدار **0.1.9**؛ رقم البناء **11**.
+- الملف: PM-CM-Organiser-0.1.9.apk؛ الحجم: 12657315 بايت.
 - توقيع Android Debug محفوظ للتحديث فوق النسخ السابقة؛ لا تحذف التطبيق قبل التحديث.
-- SHA-256: 140c0e5779243f2f4a90d96c74f12587e5ad9cbb9b6f17c9d70c847569156aff
+- SHA-256: ef09a63268fa3706b6787173732fd30057edce5d088f8b3585a8ad12179ec4aa
